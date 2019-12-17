@@ -1,0 +1,330 @@
+* {
+        margin: 0;
+        padding: 0;
+    }
+    
+body, input
+   {
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .container {
+        width: 1366px;
+        margin: 0 auto;
+    }
+    
+
+    .contact_us {
+        height: 119px;
+        position: relative;
+    }
+    
+    .padding-site {
+        padding-left: 98px;
+        padding-right: 167px;
+            padding-top:63px;
+    }
+    
+    .clearfix:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    
+    .menu {
+        float: right;
+    }
+    
+    .menu-list {
+        list-style-type: none;
+        float: left;
+    }
+    
+    .menu-link {
+        color: #8c8c8c;
+        font-size: 14px;
+        font-weight: 300;
+        text-transform: uppercase;
+        text-decoration: none;
+        float: left;
+        padding: 10px 13px;
+    }
+    
+    .menu-link:hover {
+        color: #212121
+    }
+    
+    .menu-link-active {
+        color: #212121;
+        font-weight: 700;
+        letter-spacing: 1.4px;
+        border-bottom: 3px solid #212121;
+        text-decoration: none;
+    }
+.all {display: flex;
+    background-color: #f4f4f4;
+text-align: center;
+box-sizing: border-box;
+    justify-content: center;
+    padding-top: 28px;
+    padding-bottom: 29px;
+}
+
+.all-list {list-style-type: none;}
+
+.all-link {text-decoration: none;
+padding-right: 10px;
+color: #6c6c6c;
+font-size: 18px;
+font-weight: 700;
+text-transform: uppercase;
+    letter-spacing: 1.8px;}
+
+.all-link-active {
+font-size: 18px;
+font-weight: 700;
+text-transform: uppercase;
+color: #212121;
+letter-spacing: 1.8px;}
+
+ .all-link:hover {
+        color: #212121
+    }
+.chair {display: flex;}
+
+.four_chairs {
+    width: 50%;
+height: 968px;}
+
+.hot_deal {width: 50%;}
+
+.chair1 {padding-top:72px;
+padding-left: 98px;
+padding-bottom: 11px;
+padding-right: 61px;}
+
+.chairs {display: flex;
+padding-left: 248px;
+padding-bottom: 245px;
+padding-right: 248px;
+justify-content: center;}
+
+.chair2, .chair3 {padding-right: 10px;}
+
+.hot_deal {padding-left: 61px;
+padding-top: 119px;
+padding-right: 132px;}
+
+.button a {
+box-shadow: 0 2px 5px 1px rgba(33, 33, 33, 0.35);
+border-radius: 35px;
+    background-color: #f44336;
+color: #ffffff;
+font-size: 22px;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 4.4px;
+text-decoration: none;
+width: 510px;
+height: 71px;
+display: inline-block;
+text-align: center;
+line-height: 71px;}
+
+.button {padding-bottom: 20px;
+padding-top: 31px;}
+
+.hot-content {
+color: #212121;
+font-size: 16px;
+font-weight: 300;
+    letter-spacing: 0.4px;
+padding-top: 12px;
+line-height: 24px;}
+
+.h2-fish {text-align: center;
+color: #212121;
+font-size: 36px;
+font-weight: 700;
+padding-bottom: 10px;}
+
+.hot {text-align: center;
+color: #e53935;
+font-size: 18px;
+font-weight: 700;
+    text-transform: uppercase;
+letter-spacing: 1.8px;}
+
+.price {
+color: #212121;
+font-size: 36px;
+font-weight: 300;
+text-transform: uppercase;
+display: inline-block;}
+
+.doll {
+color: #212121;
+font-size: 36px;
+font-weight: 300;
+font-size: 48px;
+font-size: 72px;
+text-transform: uppercase;
+display: inline-block;}
+
+.amount {text-align: center;}
+
+.trending_products {
+    height: 561px;
+    padding-bottom: 120px;
+           padding-left: 98px;
+        padding-right: 97px;
+}
+.trends {
+    margin-bottom: 64px;
+}
+.tols {
+    color: #212121;
+    font-size: 36px;
+    font-weight: 700;
+    display: inline-block;
+}
+.explore1 {
+    display: inline-block;
+    color: #212121;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 3.6px;
+    float: right;
+    padding-right: 12px;
+}
+
+
+.images_3 {
+    display: flex;
+    box-sizing: border-box;
+}
+.img1 {
+    padding-right: 30px;
+}
+.img2 {
+    padding-right: 30px;
+}
+
+
+
+.arrow_white {padding-left: 28px;
+}
+
+.footer {
+    background-color: #f7f7f7;
+    height: 384px;
+    padding-left: 97px;
+    padding-right: 97px;
+    padding-bottom: 30px;
+}
+.Contacts {
+    padding-top: 120px;
+    padding-bottom: 77px;
+}
+.cont {
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    padding-bottom: 24px;
+}
+.contact-content {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 300;
+}
+.talk {
+    margin-top: 20px;
+    color: #212121;
+    font-size: 14px;
+    font-weight: 300;
+}
+.Contact {
+    display: flex;
+}
+.Useful {
+    padding-top: 120px;
+    padding-left: 57px;
+    padding-bottom: 77px;
+}
+.Touch {
+    padding-top: 120px;
+    padding-left: 97px;
+    padding-bottom: 77px;
+}
+.sales,
+.career {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 26px;
+}
+.sales {
+    padding-right: 80px;
+}
+.customer {
+    display: flex;
+}
+.Touch {
+    width: 380px;
+}
+.sub {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 300;
+    padding-bottom: 26px;
+}
+.copy {
+    display: flex;
+    padding-bottom: 30px;
+}
+.Copyright {
+    color: #6c6c6c;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    padding-right: 150px;
+}
+
+.Terms {
+    color: #6c6c6c;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    padding-left: 150px;
+}
+
+
+.plane {width: 100%;
+  width: 380px;
+  position: relative;
+}
+
+input {
+  width: 100%;
+  padding-right: 20px;
+  box-sizing: border-box;
+    color: #6c6c6c;
+    font-size: 14px;
+    font-weight: 300;
+    width: 380px;
+    height: 48px;
+    padding-left: 14px;
+}
+
+i {
+  position: absolute;
+  right: 14px;
+  top: 15px;
+}
+
